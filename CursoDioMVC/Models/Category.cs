@@ -13,6 +13,6 @@ namespace CursoDioMVC.Models
         [Required( ErrorMessage = "O campo descrição é obrigatório")]
         public string Descricao { get; set; }
 
-        public List<Product> Products { get; set; }
+   
     }
 }
