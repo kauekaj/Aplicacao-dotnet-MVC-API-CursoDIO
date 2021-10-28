@@ -9,7 +9,6 @@ C:\Users\kauek\source\repos\CursoDioMVC\CursoDioMVC\bin\Debug\net5.0\ref\CursoDi
 C:\Users\kauek\source\repos\CursoDioMVC\CursoDioMVC\bin\Debug\net5.0\CursoDioMVC.pdb
 C:\Users\kauek\source\repos\CursoDioMVC\CursoDioMVC\bin\Debug\net5.0\CursoDioMVC.Views.dll
 C:\Users\kauek\source\repos\CursoDioMVC\CursoDioMVC\bin\Debug\net5.0\CursoDioMVC.Views.pdb
-C:\Users\kauek\source\repos\CursoDioMVC\CursoDioMVC\obj\Debug\net5.0\CursoDioMVC.csproj.AssemblyReference.cache
 C:\Users\kauek\source\repos\CursoDioMVC\CursoDioMVC\obj\Debug\net5.0\CursoDioMVC.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\kauek\source\repos\CursoDioMVC\CursoDioMVC\obj\Debug\net5.0\CursoDioMVC.AssemblyInfoInputs.cache
 C:\Users\kauek\source\repos\CursoDioMVC\CursoDioMVC\obj\Debug\net5.0\CursoDioMVC.AssemblyInfo.cs
