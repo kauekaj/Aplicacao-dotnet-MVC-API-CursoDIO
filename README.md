@@ -1,12 +1,10 @@
-# Desenvolvimento de aplicações com .NET - MVC e API - DIO
-
 <!--Banner session-->
 <p align="center">
   <img src="./assets/banner.png" alt="DIO" title="Digital Innovation One">
 </p>
 
 <!--About session-->
-<h1 align="center">Criando um APP simples de cadastro de séries em .NET<br>Digital Innovation One</h1>
+<h1 align="center">Desenvolvimento de aplicações com .NET - MVC e API<br>Digital Innovation One</h1>
 
 
 Curso do Bootcamp Take Blip Fullstack Developer #2 da [Digital Innovation One](https://digitalinnovation.one/).
